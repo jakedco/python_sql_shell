@@ -1,0 +1,3 @@
+I just needed an SQL box so I built one in python.
+
+I'll make it pretty eventually and have it look like an actual shell but for now this is all it is.
