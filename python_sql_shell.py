@@ -1,6 +1,7 @@
 import os, pyodbc
 
 # Database details
+# This is all you need to edit.
 server = r"SERVER_NAME"
 database = "DATABASE_NAME"
 
